@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 import bs4 as bs
 import pandas as pd
-import time
+#import time
 import matplotlib.pyplot as plt
 import numpy as np
 from wordcloud import WordCloud, STOPWORDS
